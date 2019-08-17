@@ -25,10 +25,11 @@
 		<jacoco.version>0.7.9</jacoco.version>
 	</properties>
 
+
 	<scm>
-		<connection>scm:git:git@github.com:danpefok/devops_java_er_code.git</connection>
-		<developerConnection>scm:git:git@github.com:danpefok/devops_java_er_code.git</developerConnection>
-		<url>git@github.com:danpefok/devops_java_er_code.git</url>
+		<connection>scm:git:git@github.com:keshavkummari/devops_java_er_code.git</connection>
+		<developerConnection>scm:git:git@github.com:keshavkummari/devops_java_er_code.git</developerConnection>
+		<url>git@github.com:keshavkummari/devops_java_er_code.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
